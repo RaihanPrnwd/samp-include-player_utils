@@ -1,5 +1,6 @@
 # player_utils.inc
-
+[![License: Freeware Creditware](https://img.shields.io/badge/license-Freeware%20Creditware-brightgreen.svg?style=flat-square)]()
+[![Author](https://img.shields.io/badge/Author-Raihan%20Purnawadi-blue.svg?style=flat-square)](https://github.com/RaihanPrnwd)
 **SA-MP Player Utility Include**  
 _A collection of powerful utility functions for managing and scripting player features in SA-MP._  
 **by Raihan Purnawadi**  
